@@ -1,0 +1,3 @@
+[submodule "Iot/ICA/GroupRepo/IoTGroupProject"]
+	path = Iot/ICA/GroupRepo/IoTGroupProject
+	url = https://github.com/KunoDLK/IoTGroupProject.git
