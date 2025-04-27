@@ -1,0 +1,105 @@
+Case Study:
+
+Fitness trackers and monitors have become increasingly popular and play an 
+important part in aiding the everyday person to become responsible for their own 
+health and fitness. According to Fortune Business Insights, in 2020 the global fitness 
+tracker market was worth over £29billion and is forecast to grow to over £91billion by 
+2028.
+The owner of My_hEalth has realised that there is a gap in the market for an 
+effective data integration app which provides a visually attractive interface for health 
+and fitness related metrics that can be collected from a multitude of devices. There is 
+currently a competitive race to be the first to bring such a well integrated application 
+to the market, and it needs to work on all mobile platforms in addition to being able to 
+collect data from all popular devices and existing software providers, including FitBit, 
+Garmin, Whoop, Google Fit, Apple, MyFitnessPal and many more. The owner is 
+aiming for the application to be able to prompt the wearer at key points (e.g. “Drink 
+more water!” or “You need to rest today” etc.) as well as provide the ability to 
+automatically send health related data to healthcare professionals and insurers. 
+Its unique selling point will be the industry-leading integration and sharing, which 
+relies on data integrity, availability, accuracy etc. and must be very carefully 
+protected in order to comply with legislation. The application is in the late stages of 
+development and has been created securely by design through collaboration with 
+industry experts. The owner has invested very large sums of personal money, and 
+there are early investors pushing for a strict release deadline. The app will offer a 
+limited free service but for full integration and insights customers will need to pay a 
+monthly subscription. A small portion of this monthly fee will be paid back to the 
+partner manufacturers/software providers in return for the ability to use their data.
+Currently the development team is small (8 people). However, the owner now needs 
+to step up production in order to hit the agreed deadlines, and has decided to extend 
+the team by employing another four full time developers and a sales and marketing 
+lead who also has good experience in data security.
+To date the team have been working from home but once the team expands they will 
+need to locate to a central office where they can work together, although it is 
+intended that working from home will be permitted for a proportion of the working 
+week.
+Encouraging manufacturers to share data for testing the app integration has been 
+very challenging, and some have expressed a concern that the data governance of 
+My_hEalth is not as transparent or robust as it should be, and as a result have been 
+reluctant to share real data. Moving forward, the team have been advised to produce 
+a set of key documentation and processes to reassure partner manufacturers. In 
+addition, one of the largest investors has also expressed a concern over similar 
+issues and has threatened to withdraw their funding. The lure of such an exciting 
+application has kept them interested to this point, and the team need to act fast.
+Page | 3
+The team have already taken some initial cyber security training but 
+they understand more will be required. There is also a need to ensure 
+a formal audit trail of processes, responsibilities and operations.
+It is intended that the application will import/collect, process and store the following 
+types of data:
+Heart rate
+Heart rate variability
+Resting heart rate
+Peak heart rate
+Average heart rate
+Heart rate zones
+Calories consumed
+Calories burned
+Sleep metrics (time, type (e.g. REM, light etc.)
+Activity type (including recovery such as massage therapy)
+Activity time
+Location
+Ambient temperature
+Skin temperature
+Respiration rate
+Weight
+Body mass
+Steps
+Distance travelled (e.g. run, walk, cycle, swim etc.)
+GPS route data
+Floors climbed
+Intensity minutes
+Day strain level
+Morning recovery level
+Day stress level
+Menstrual tracker
+Water consumed
+Vitamins/minerals consumed
+Blood oxygen level
+Postural data (if a web cam is connected whilst working at a desk)
+Usual sleep and wake times
+Usual eating times
+Device type and location (e.g. wrist band)
+Profile information (e.g. date of birth, address etc.)
+Timezone
+IP address
+Location
+It is intended that healthcare reports will/could utilise all of the above data and the 
+team would like to ensure that the ability to collect additional data (expand data types 
+etc.) is already built into the design of the application.
+Page | 4
+You may need to make a number of assumptions for this case study, 
+so you must ensure that you include these in your assessment to help 
+justify your decision making.
+
+A summary of ethical, social, legal and regulatory compliance issues relating to this 
+case study, to include clear information on all applicable laws and industry best 
+practice (such as ISO27K).  The summary should demonstrate an understanding of 
+the differences between ethical and legal considerations. It should include a clear list 
+of controls you plan to implement with justification for each.  [35 marks]
+Guide: 2000 words
+To include a comprehensive list of all pertinent legislation and ethical and 
+social issues with clear controls identified and justified
+To include clear links between issues identified, suggested controls and 
+associated legislation/standards
+To include an indication of consequences to the organisation in the event of 
+non-compliance
