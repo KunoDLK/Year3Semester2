@@ -4,64 +4,6 @@
 
 My_hEalth is developing an ambitious and highly integrated fitness tracking application that aims to consolidate data from various popular devices and software providers. Given the sensitive nature of the data collected and the competitive landscape, there are significant data security risks that must be assessed and mitigated to ensure the project's success and business continuity.
 
-## Identified Risks and Mitigations
-
-### 1. Data Breach
-- **Description:** Unauthorized access to stored health data.
-- **Likelihood:** High - Fitness data is a prime target for cyber-attacks due to its sensitive nature.
-- **Severity:** High - Breaches can lead to legal penalties, reputational damage, and user trust loss.
-- **Overall Risk Score:** 9/10
-- **Mitigation:** Implement end-to-end encryption and regular security audits. Justification: Protecting user data through encryption ensures confidentiality, thus maintaining user trust and compliance with data protection laws, which is vital for business continuity.
-
-### 2. Inadequate Data Governance
-- **Description:** Lack of transparent and robust data governance policies.
-- **Likelihood:** Medium - Current concerns from manufacturers highlight this risk.
-- **Severity:** High - Poor governance can lead to data mishandling and legal issues.
-- **Overall Risk Score:** 8/10
-- **Mitigation:** Develop and publish comprehensive data governance policies, including data usage and sharing procedures. Justification: Clear policies can reassure partners and regulatory bodies, preserving partner relationships and investment, crucial for ongoing operations.
-
-### 3. Insufficient User Consent Management
-- **Description:** Failure to obtain proper consent for data collection and sharing.
-- **Likelihood:** Medium - Potentially overlooked in the development rush.
-- **Severity:** High - Non-compliance with regulations such as GDPR can lead to fines.
-- **Overall Risk Score:** 8/10
-- **Mitigation:** Integrate a robust consent management module that clearly informs users and logs consent history. Justification: Ensures legal compliance and enhances user trust, safeguarding the company from legal repercussions that could disrupt business.
-
-### 4. System Downtime
-- **Description:** Application or server downtime due to technical failure or cyber-attacks.
-- **Likelihood:** Medium - A small development team may lead to oversight.
-- **Severity:** High - Direct revenue loss and user dissatisfaction from interrupted service.
-- **Overall Risk Score:** 7/10
-- **Mitigation:** Implement a fault-tolerant architecture with automatic failover and regular penetration testing. Justification: Minimizing downtime through resilient infrastructure ensures service availability, a critical component for user retention and income stability.
-
-### 5. Data Loss or Corruption
-- **Description:** Loss or corruption of user data due to system failures or mishandling.
-- **Likelihood:** Medium - Complex data integrations increase this risk.
-- **Severity:** High - Could lead to operational disruptions and loss of user confidence.
-- **Overall Risk Score:** 7/10
-- **Mitigation:** Employ regular backups and redundant data storage solutions, and implement data integrity checks. Justification: Consistent data protection measures support business continuity by safeguarding data assets, thus maintaining operational reliability.
-
-### 6. Insufficient Cybersecurity Training
-- **Description:** Teams lacking adequate training on latest cybersecurity practices.
-- **Likelihood:** Medium - Initial cyber security training provided, but ongoing education is needed.
-- **Severity:** Medium - Could lead to increased vulnerability to cyber threats.
-- **Overall Risk Score:** 6/10
-- **Mitigation:** Conduct regular, mandatory cybersecurity training sessions with up-to-date content. Justification: A well-informed team can better defend against threats, reducing the risk of incidents that could sideline business operations.
-
-### 7. Unauthorized Data Sharing
-- **Description:** Data being shared with unauthorized entities, either accidentally or maliciously.
-- **Likelihood:** Low - With proper governance, but errors can occur.
-- **Severity:** High - Can result in significant compliance violations and reputational damage.
-- **Overall Risk Score:** 6/10
-- **Mitigation:** Implement role-based access controls and monitor data access logs. Justification: Ensures that only authorized personnel can access sensitive data, mitigating the risk of improper data dissemination that could compromise business continuity.
-
-### 8. Regulatory Non-compliance
-- **Description:** Non-adherence to data privacy laws and regulations.
-- **Likelihood:** Medium - Rapid development pace may lead to oversight.
-- **Severity:** High - Risk of substantial fines and operational shutdowns.
-- **Overall Risk Score:** 8/10
-- **Mitigation:** Hire a compliance officer to oversee regulatory adherence and conduct regular compliance assessments. Justification: Maintaining compliance is essential for lawful operation and helps avoid penalties that could impact financial stability and operations.
-
 ## Conclusion
 
 Addressing these risks through the recommended mitigations is essential to safeguard My_hEalth's interests and ensure business continuity. By fortifying data security, establishing clear governance, and ensuring compliance, My_hEalth can not only alleviate concerns from partners and investors but also position itself strongly in the competitive market.
@@ -134,7 +76,7 @@ The proliferation of fitness trackers and health monitors has led to an exponent
    - **Issue:** Building trust with users and partners through transparency in data handling practices.
    - **Considerations:**
      - Openly communicate data governance policies.
-     - Provide clear privacy notices.
+     - Provide clear privacy notices.   
 
 4. **Non-Maleficence and Beneficence**
 
